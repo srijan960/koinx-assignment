@@ -1,4 +1,4 @@
-import {  Text, Box, HStack} from "@chakra-ui/react";
+import {  Text, HStack} from "@chakra-ui/react";
 import React from "react";
 import { AiOutlineStar } from "react-icons/ai";
 
